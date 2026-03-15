@@ -1,0 +1,17 @@
+Vector databases store embeddings for efficient similarity search.
+
+Embeddings convert text into numerical vectors representing meaning.
+
+Cosine similarity measures similarity between vectors based on angle.
+
+Retrieval Augmented Generation (RAG) combines vector search with large language models.
+
+Vector databases are widely used in semantic search systems.
+
+Suryadeep age is 22.
+
+Mohan is 25 years old.
+
+policy of Surya enterprises is that do what you enjoy (by love not forcefully).
+
+Surya enterprises leave policy is that one can took leave anytime but the assigned task was done on time that's it .
