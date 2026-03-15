@@ -1,0 +1,5 @@
+sentence-transformers
+numpy
+streamlit
+requests
+python-dotenv
